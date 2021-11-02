@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Metronome</string>
+    <string name="bpm_text">Bits per minute</string>
+    <string name="meter_text">Meter</string>
+    <string name="bpm_hint">bpm</string>
+    <string name="meter_hint">bits</string>
+    <string name="start_value">1</string>
+    <string name="start_btn">Start</string>
+    <string name="stop_btn">Stop</string>
+    <string name="tap_btn">Tap</string>
+</resources>
